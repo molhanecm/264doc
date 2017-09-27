@@ -1,3 +1,4 @@
-# My Awesome Book
+# Login do 264 - dokumentace
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Tento soubor popisuje systém loginu do 264.
+
